@@ -5,5 +5,5 @@ def mian():
     logging.info("The script is now working in the directory: " + os.getcwd())
 
 if __name__ == "__mian__":
-    print("Hello, world")
+    print("Hello! world")
     mian()
